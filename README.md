@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://madesureai.com">
-    <img src="assets/madesure-home.png" alt="MadeSure AI 中国供应商尽调产品首页" width="900" />
+    <img src="assets/madesure-home-2026.png" alt="MadeSure AI 中国供应商尽调产品新版首页" width="900" />
   </a>
 </p>
 
