@@ -12,6 +12,12 @@
 
 ### [Gravtail｜工作状态与疲劳记录工具](https://github.com/AustinEudaimonia/Gravtail)
 
+<p align="center">
+  <a href="https://github.com/AustinEudaimonia/Gravtail">
+    <img src="assets/gravtail-promo.png" alt="Gravtail 久坐提醒产品宣传图" width="620" />
+  </a>
+</p>
+
 我在长期工作中发现，工作时长增加并不一定带来同比例的有效产出：随着疲劳积累，完成任务所需时间会逐渐增加，但这种变化通常只能依靠模糊感受判断。
 
 基于这一观察，我独立开发了 Gravtail。它是一款 macOS 菜单栏工具，用于记录工作时长、任务完成情况和主观疲劳程度，并将这些信息转化为可视化趋势，帮助用户观察自己的精力变化和边际效率。
@@ -21,6 +27,12 @@
 [查看项目仓库](https://github.com/AustinEudaimonia/Gravtail)
 
 ### [《奥德赛》互动观影指南](https://github.com/AustinEudaimonia/odyssey-viewing-guide)
+
+<p align="center">
+  <a href="https://github.com/AustinEudaimonia/odyssey-viewing-guide">
+    <img src="assets/odyssey-home.png" alt="《奥德赛》互动观影指南首页" width="394" />
+  </a>
+</p>
 
 为了帮助没有阅读过《奥德赛》的观众快速理解其中复杂的人物、神祇、怪物和地点，我尝试将传统的长篇背景介绍改造成一个像素艺术风格的互动网页。
 
@@ -43,6 +55,12 @@
 ## 03 · AI 产品
 
 ### [MadeSure AI](https://madesureai.com)｜中国供应商尽调产品
+
+<p align="center">
+  <a href="https://madesureai.com">
+    <img src="assets/madesure-home.png" alt="MadeSure AI 中国供应商尽调产品首页" width="900" />
+  </a>
+</p>
 
 MadeSure AI 是我与伙伴共同开发并已经公开上线的中国供应商尽调产品，主要服务希望在付款前核验中国供应商的海外采购者。
 
